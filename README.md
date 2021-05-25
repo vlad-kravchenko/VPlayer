@@ -1,2 +1,1 @@
-# VPlayer
-Simple videoplayer
+Простоя обёртка вокруг медиаплеера на WinForms.
